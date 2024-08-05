@@ -50,12 +50,3 @@ Plot feature importances for the best models.
 ## ROC Curve
 Generate and plot the ROC curve for the best models.
 
-## How to Run
-1. Ensure all necessary libraries are installed.
-2. Load and preprocess the dataset.
-3. Run the EDA and data preprocessing steps.
-4. Train, evaluate, and optimize the models.
-5. Generate feature importance and ROC curves for the best models.
-
-## Conclusion
-This project demonstrates a complete workflow for predicting customer churn, from data preprocessing to model evaluation and optimization. It highlights the importance of feature engineering, handling data imbalance, and hyperparameter tuning to improve model performance.
